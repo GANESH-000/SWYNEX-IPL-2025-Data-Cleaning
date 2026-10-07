@@ -1,0 +1,78 @@
+match_id,date,venue,team1,team2,result
+1,22/03/2025,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bengaluru,-
+2,23/03/2025,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Rajasthan Royals,-
+3,23/03/2025,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,-
+4,24/03/2025,Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Lucknow Super Giants,-
+5,25/03/2025,Narendra Modi Stadium,Gujarat Titans,Punjab Kings,-
+006,26/03/2025,ACA Stadium,Rajasthan Royals,Kolkata Knight Riders,-
+7,27/03/2025,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Lucknow Super Giants,-
+8,28/03/2025,MA Chidambaram Stadium, Chennai Super Kings ,Royal Challengers Bengaluru,-
+9,29/03/2025,Narendra Modi Stadium,Gujarat Titans,Mumbai Indians,-
+10,30/03/2025,Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Sunrisers Hyderabad,-
+11,30/03/2025,ACA Stadium,Rajasthan Royals,Chennai Super Kings,-
+12,31/03/2025,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,-
+13,01/04/2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Punjab Kings,-
+14,02/04/2025,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Gujarat Titans,-
+15,03/04/2025,Eden Gardens,kolkata knight riders,Sunrisers Hyderabad,-
+16,04/04/2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Mumbai Indians,-
+17,05/04/2025,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,-
+18,05/04/2025,New PCA Stadium,Punjab Kings,Rajasthan Royals,-
+19,06/04/2025,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Gujarat Titans ,-
+20,07/04/2025,Wankhede Stadium,Mumbai Indians,Royal Challengers Bengaluru,-
+21,08/04/2025,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,-
+22,08/04/2025,New PCA Stadium,Punjab Kings,Chennai Super Kings,-
+23,09/04/2025,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,-
+24,10/04/2025,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Delhi Capitals,-
+25,11/04/2025,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,-
+26,12/04/2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Gujarat Titans,-
+27,12/04/2025,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Punjab Kings,-
+28,13/04/2025,Sawai Mansingh Stadium,Rajasthan Royals,royal challengers bengaluru,-
+29,13/04/2025,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,-
+30,14/04/2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Chennai Super Kings,-
+31,15/04/2025,New PCA Stadium,Punjab Kings,Kolkata Knight Riders,-
+32,16/04/2025,Arun Jaitley Stadium,Delhi Capitals,Rajasthan Royals,-
+33,17/04/2025,Wankhede Stadium ,Mumbai Indians,Sunrisers Hyderabad,-
+34,18/04/2025,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Punjab Kings,-
+35,19/04/2025,Narendra Modi Stadium,Gujarat Titans,Delhi Capitals,-
+36,19/04/2025,Sawai Mansingh Stadium,Rajasthan Royals,Lucknow Super Giants,-
+37,20/04/2025,New PCA Stadium,Punjab Kings,Royal Challengers Bengaluru,-
+38,20/04/2025,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,-
+39,21/04/2025,Eden Gardens,Kolkata Knight Riders,Gujarat Titans,-
+40,22/04/2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,-
+41,23/04/2025,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Mumbai Indians,-
+42,24/04/2025,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Rajasthan Royals,-
+43,25/04/2025,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,-
+44,26/04/2025,Eden Gardens,Kolkata Knight Riders,Punjab Kings,-
+45,27/04/2025,Wankhede Stadium,Mumbai Indians,Lucknow Super Giants,-
+46,27/04/2025,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bengaluru,-
+47,28/04/2025,Sawai Mansingh Stadium,Rajasthan Royals,Gujarat Titans,-
+48,29/04/2025,Arun Jaitley Stadium,Delhi Capitals,Kolkata Knight Riders,-
+49,30/04/2025,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,-
+50,01/05/2025,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,-
+51,02/05/2025,Narendra Modi Stadium,Gujarat Titans,Sunrisers Hyderabad,-
+52,03/05/2025,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,-
+53,04/05/2025,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,-
+54,04/05/2025,Himachal Pradesh Cricket Association Stadium,Punjab Kings,Lucknow Super Giants,-
+55,05-05-2025,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Delhi Capitals,-
+56,06/05/2025,Wankhede Stadium,Mumbai Indians,Gujarat Titans,-
+57,07/05/2025,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,-
+58,17/05/2025,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,-
+59,18/05/2025,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,-
+60,18/05/2025,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,-
+61,19/05/2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Sunrisers Hyderabad,-
+62,20/05/2025,Arun Jaitley Stadium,Chennai Super Kings,Rajasthan Royals,-
+63,21/05/2025,Wankhede Stadium,Mumbai Indians,Delhi Capitals,-
+64,22/5/2025,Narendra Modi Stadium,Gujarat Titans,Lucknow Super Giants,-
+65,23/05/2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,-
+66,24/05/2025,Sawai Mansingh Stadium,Punjab Kings,Delhi Capitals,-
+67,25/05/2025,Narendra Modi Stadium,Gujarat Titans,Chennai Super Kings,-
+68,25/05/2025,Arun Jaitley Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,-
+69,26/05/2025,,Punjab Kings,Mumbai Indians,-
+70,27/05/2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Royal Challengers Bengaluru,-
+71,29/05/2025,New PCA Stadium,Punjab Kings,,-
+72,30/05/2025,New PCA Stadium,Gujarat Titans,Mumbai Indians,-
+73,01/06/2025,Narendra Modi Stadium,Punjab Kings,Mumbai Indians,
+74,03/06/2025,Narendra Modi Stadium,Royal Challengers Bengaluru,Punjab Kings,-
+11,30/03/2025,ACA Stadium,Rajasthan Royals,Chennai Super Kings,-
+26,12/04/2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Gujarat Titans,-
+56,06/05/2025,Wankhede Stadium,Mumbai Indians,Gujarat Titans,-
